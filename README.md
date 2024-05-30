@@ -32,4 +32,4 @@ Veja o projeto pronto em <a href="https://projeto-vue-ebac-viviane.vercel.app/">
 
 <img src="/src/img/todo-list.png">
 
-### Autor Viviane Aguiar &copy; Todos os direitos reservados - 2024
+Autor Viviane Aguiar &copy; Todos os direitos reservados - 2024
