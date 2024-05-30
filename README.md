@@ -30,6 +30,6 @@ npm run build
 
 Veja o projeto pronto em <a href="https://projeto-vue-ebac-viviane.vercel.app/">TodoList em VueJS</a>
 
-<img src="">
+<img src="/src/img/todo-list.png">
 
 ### Autor Viviane Aguiar &copy; Todos os direitos reservados - 2024
