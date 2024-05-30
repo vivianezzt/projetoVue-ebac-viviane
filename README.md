@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+### Autor Viviane Aguiar &copy; Todos os direitos reservados - 2024
